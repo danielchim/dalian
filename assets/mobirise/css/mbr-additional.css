@@ -489,22 +489,10 @@ padding-bottom: (@paddingBottom * 15px);
 #video1-h {
 }
 
-#msg-box5-w {
-.mbr-header__text {
-  color: #ffffff;
-}
-.mbr-header__subtext {
-  color: #ffffff;
-}
-.mbr-article {
-  color: #ffffff;
-}
-.mbr-article P {
-  color: #ffffff;
-}
+#contacts1-u {
 }
 
-#contacts1-u {
+#features1-13 {
 }
 @isPublish: true;
 
